@@ -1,0 +1,7 @@
+{
+  "name": "FaceCheck AI Attendance",
+  "description": "A modern, serverless face recognition attendance system using React and Gemini Vision API. Replaces traditional Python/OpenCV stacks with a pure frontend AI approach.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
